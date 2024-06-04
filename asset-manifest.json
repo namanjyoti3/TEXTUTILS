@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TEXTUTILS/static/css/main.76aec624.css",
-    "main.js": "/TEXTUTILS/static/js/main.ae0be42b.js",
-    "static/js/453.02b6ed6f.chunk.js": "/TEXTUTILS/static/js/453.02b6ed6f.chunk.js",
-    "index.html": "/TEXTUTILS/index.html",
-    "main.76aec624.css.map": "/TEXTUTILS/static/css/main.76aec624.css.map",
-    "main.ae0be42b.js.map": "/TEXTUTILS/static/js/main.ae0be42b.js.map",
-    "453.02b6ed6f.chunk.js.map": "/TEXTUTILS/static/js/453.02b6ed6f.chunk.js.map"
+    "main.css": "/TEXTUTILS-React/static/css/main.76aec624.css",
+    "main.js": "/TEXTUTILS-React/static/js/main.00c2f9da.js",
+    "static/js/453.02b6ed6f.chunk.js": "/TEXTUTILS-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/TEXTUTILS-React/index.html",
+    "main.76aec624.css.map": "/TEXTUTILS-React/static/css/main.76aec624.css.map",
+    "main.00c2f9da.js.map": "/TEXTUTILS-React/static/js/main.00c2f9da.js.map",
+    "453.02b6ed6f.chunk.js.map": "/TEXTUTILS-React/static/js/453.02b6ed6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76aec624.css",
-    "static/js/main.ae0be42b.js"
+    "static/js/main.00c2f9da.js"
   ]
 }
